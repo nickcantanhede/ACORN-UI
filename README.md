@@ -104,25 +104,45 @@ Code involved:
 
 ### Item data (name: start -> target)
 usb drive: 12 -> 1                    laptop charger: 21 -> 1
+
 lucky mug: 5 -> 1                     tcard: 2 -> 1
+
 stapler: 29 -> 29                     campus map: 6 -> 6
+
 gym pass: 6 -> 6                      bus ticket: 7 -> 7
+
 umbrella: 9 -> 9                      protein bar: 9 -> 12
+
 sticky notes: 10 -> 33                study timer: 11 -> 12
+
 lecture notes: 13 -> 33               clicker: 14 -> 14
+
 camera strap: 3 -> 34                 hand sanitizer: 16 -> 24
+
 notebook: 1 -> 33                     scarf: 17 -> 7
+
 spare usb cable: 18 -> 1              toonie: 19 -> 27
+
 python cheat sheet: 20 -> 33          pencil: 15 -> 29
+
 flashcard deck: 23 -> 33              printed report: 25 -> 32
+
 blue pen: 22 -> 32                    coffee: 27 -> 33
+
 headphones: 28 -> 12                  cookie: 2 -> 33
+
 water bottle: 28 -> 12                sticker sheet: 29 -> 33
+
 spare paper: 25 -> 25                 calculator: 30 -> 12
+
 lab access form: 33 -> 32             marker: 30 -> 21
+
 dorm key: 4 -> 3                      office hours token: 28 -> 33
+
 assignment cover sheet: 29 -> 32      signed extension request: 3 -> 32
+
 library book: 12 -> 24                group meeting notes: 23 -> 33
+
 lost-and-found tag: 15 -> 34
 
 ### Example inventory commands
